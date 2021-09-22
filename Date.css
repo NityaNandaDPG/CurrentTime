@@ -1,0 +1,18 @@
+table
+{
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid red;
+	text-align: center;
+	background-color: black;
+	color: red;
+}
+td
+{
+		border: 2px solid white;
+//		background-color: white;
+}
+#t_console
+{
+	background-color: white;
+}
