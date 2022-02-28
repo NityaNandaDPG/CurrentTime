@@ -16,7 +16,8 @@ function currentTime()
 	document.getElementById("t1").innerHTML=hr;
 	document.getElementById("t2").innerHTML=min;
 	document.getElementById("t3").innerHTML=sec;
-	document.getElementById("t4").innerHTML=m;
+	document.getElementById("t4").innerHTML=ms;
+	document.getElementById("t5").innerHTML=m;
 	document.getElementById("zone").innerHTML=t;
 }
 setInterval(currentTime,1 );
